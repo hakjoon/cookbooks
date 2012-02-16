@@ -22,3 +22,6 @@
 [submodule "database"]
 	path = database
 	url = git://github.com/cookbooks/database.git
+[submodule "python"]
+	path = python
+	url = git://github.com/cookbooks/python.git
