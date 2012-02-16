@@ -19,3 +19,6 @@
 [submodule "postgresql"]
 	path = postgresql
 	url = git://github.com/cookbooks/postgresql.git
+[submodule "database"]
+	path = database
+	url = git://github.com/cookbooks/database.git
