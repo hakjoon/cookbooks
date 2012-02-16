@@ -1,0 +1,21 @@
+[submodule "apt"]
+	path = apt
+	url = git://github.com/cookbooks/apt.git
+[submodule "apache2"]
+	path = apache2
+	url = git://github.com/cookbooks/apache2.git
+[submodule "mysql"]
+	path = mysql
+	url = git://github.com/cookbooks/mysql.git
+[submodule "openssl"]
+	path = openssl
+	url = git://github.com/cookbooks/openssl.git
+[submodule "subversion"]
+	path = subversion
+	url = git://github.com/cookbooks/subversion.git
+[submodule "php"]
+	path = php
+	url = git://github.com/cookbooks/php.git
+[submodule "postgresql"]
+	path = postgresql
+	url = git://github.com/cookbooks/postgresql.git
